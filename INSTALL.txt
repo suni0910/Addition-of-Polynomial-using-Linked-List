@@ -1,0 +1,8 @@
+HOW TO USE
+The addition of polynomials using linked list in C code involves creating a linked list for each polynomial and then adding the corresponding terms of each polynomial. The result is stored in a new linked list.
+The structure of the node in the linked list contains two elements: the coefficient of the term and the exponent of the term.
+The addition of polynomials using linked list in C code involves creating a linked list for each polynomial and then adding the corresponding terms of each polynomial. The result is stored in a new linked list.
+The structure of the node in the linked list contains two elements: the coefficient of the term and the exponent of the term.
+Add two linked lists by traversing each linked list and adding the corresponding terms. The result is stored in a new linked list.
+Print the linked list by traversing the linked list and printing each node in the linked lis
+
